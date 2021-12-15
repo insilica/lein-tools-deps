@@ -1,8 +1,6 @@
 # lein-tools-deps
 
-[![Clojars Project](https://img.shields.io/clojars/v/lein-tools-deps.svg)](https://clojars.org/lein-tools-deps)
-
-[![Build Status](https://travis-ci.org/RickMoynihan/lein-tools-deps.svg?branch=master)](https://travis-ci.org/RickMoynihan/lein-tools-deps)
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.john-shaffer/lein-tools-deps.svg)](https://clojars.org/org.clojars.john-shaffer/lein-tools-deps)
 
 A leiningen plugin that lets you
 share [tools.deps.alpha](https://github.com/clojure/tools.deps.alpha)
@@ -111,7 +109,7 @@ Simply add the following to your plugins and middleware vectors,
 respectively, in your `project.clj`:
 
 ```clojure
-  :plugins [[lein-tools-deps "0.4.5"]]
+  :plugins [[org.clojars.john-shaffer/lein-tools-deps "0.4.6-1"]]
 ```
 
 ```clojure
