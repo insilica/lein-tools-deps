@@ -1,4 +1,5 @@
 .cpcache/
+.direnv/
 /target
 /classes
 /checkouts
